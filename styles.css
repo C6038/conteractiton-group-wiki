@@ -1,0 +1,145 @@
+:root {
+  --font-family-inter: 'Inter', sans-serif;
+}
+
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.text-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1920px;
+  height: 80px;
+  font-size: 64px;
+  font-family: var(--font-family-inter);
+  font-weight: normal;
+  text-align: center;
+  color: rgba(0, 0, 0, 1);
+}
+
+.rectangle-1-3 {
+  position: absolute;
+  left: 140px;
+  top: 270px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-2-4 {
+  position: absolute;
+  left: 420px;
+  top: 270px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-3-5 {
+  position: absolute;
+  left: 700px;
+  top: 270px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-4-6 {
+  position: absolute;
+  left: 980px;
+  top: 270px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-5-7 {
+  position: absolute;
+  left: 1260px;
+  top: 270px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-6-8 {
+  position: absolute;
+  left: 1540px;
+  top: 270px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-7-9 {
+  position: absolute;
+  left: 140px;
+  top: 540px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-8-10 {
+  position: absolute;
+  left: 420px;
+  top: 540px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-9-11 {
+  position: absolute;
+  left: 700px;
+  top: 540px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-10-12 {
+  position: absolute;
+  left: 980px;
+  top: 540px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-11-13 {
+  position: absolute;
+  left: 1260px;
+  top: 540px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.rectangle-12-14 {
+  position: absolute;
+  left: 1540px;
+  top: 540px;
+  width: 240px;
+  height: 230px;
+  background-color: rgba(217, 217, 217, 1);
+}
+
+.frame-1-1 {
+  position: absolute;
+  left: -266px;
+  top: -182px;
+  width: 1920px;
+  height: 1080px;
+  position: relative;
+  width: 100%;
+  height: auto;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(0, 0, 0, 1);
+}
