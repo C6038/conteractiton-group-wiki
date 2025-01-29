@@ -5,6 +5,7 @@
 }
 
 .card {
+  background-color: gray;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   width: 128px;
@@ -25,9 +26,36 @@ img {
 }
 
 .button-link {
+  background-color: gray;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   width: 100%;
   border-radius: 5px;
   text-align: left;
+}
+
+body {
+  background-color: black;
+  font-family: cursive;
+  color: lightblue;
+}
+
+h4 {
+  font-size: large;
+}
+
+p {
+  font-size: medium;
+}
+
+a.text{
+  text-decoration: none;
+}
+
+a:visited{
+  color: blue;
+}
+
+a:hover {
+  color:greenyellow;
 }
